@@ -1,0 +1,26 @@
+*{
+    background: linear-gradient(to right,lightblue,rgb(201, 198, 39));
+}
+main{
+   text-align: center;
+   color: rgb(20, 24, 21);
+   font-size: large;
+}
+#dec{
+    color: rgb(152, 143, 204);
+    background-color: rgb(36, 111, 223);
+    height: 10vh;
+    width: 25vw;
+    border-radius: 20%;
+}
+
+#inc{
+    height: 10vh;
+    width: 25vw;
+    background-color: aqua;
+    border-radius: 20%;
+}
+
+.count{
+    text-align: center;
+}
